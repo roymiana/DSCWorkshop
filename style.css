@@ -1,0 +1,17 @@
+p {
+    color: red;
+    font-size: 20px;    
+}
+
+h1{
+    color: darkgray;
+    background-color: yellow;
+    margin: 10px;
+    border-color: aqua;
+    border-style: solid;
+    padding: 10px;
+}
+
+.div h1{
+    color: red;
+}
